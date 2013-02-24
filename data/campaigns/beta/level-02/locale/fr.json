@@ -1,0 +1,10 @@
+{
+  "msg-escaped": "J'ai eu les données, mais aucun retour n'est possible.",
+  "msg-enemy": "Ils sont plus nombreux que ce à quoi je m'atendais de prime abord ... et ils n'ont pas l'air sympathiques ...",
+  "msg-escape": "Je ne vais pouvoir leur résister longtemps avec ce niveau de technologie, il faudrait que je me trouve un continent plus tranquille.",
+  "msg-research-flight": "Pour cela, je vais devoir rechercher l'aviation",
+  "goal-research-flight": "Rechercher l'aviation",
+  "goal-next-attack": "Prochain attaque dans __1__.",
+  "msg-finished": "Enfin! J'ai bien cru ne pas y arriver!",
+  "msg-go-away": "Echappons nous vite et trouvons nous un endroit tranquille loin d'ici"
+}
