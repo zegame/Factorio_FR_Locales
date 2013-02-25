@@ -1,0 +1,65 @@
+{
+  "msg-introduction": "La dernière chose dont vous vous souvenez est d'être rentré dans le module de sauvetage (press __CONTROL__confirm-message__ to continue).",
+  "msg-introduction-2": "Vous ne voyez personne de votre vaisseau aux alentours, ni d'autre épave que la vôtre.",
+
+  "goal-intro-msg": "Vous pouvez toujours voir l'objectif courant dans l'angle supérieur droit.",
+  "goal-movement": "Utilisez les touches __CONTROL__move-up__, __CONTROL__move-left__, __CONTROL__move-down__, __CONTROL__move-right__ pour vous déplacer.",
+
+  "think-search-wreck": "Il y a peut-être quelque chose d'utile dans les restes du vaisseau!",
+  "goal-search-wreck": "Fouillez les restes du vaisseau. (Ouvrez-les avec un __CONTROL__open-gui__ desssus).",
+  "msg-inventory-introduction": "Votre inventaire est à gauche. Déplacez les __ITEM__iron-plate__ dedans.",
+  "goal-close-screen": "Fermez la fenêtre (press __CONTROL__close-gui__). Chaque fenêtre peut être fermée en appuyant sur __CONTROL__close-gui__.",
+
+  "think-nothing-more": "Il n'y a rien d'autre, je vais devoir me faire quelques outils de base.",
+
+  "goal-open-character-screen-1": "Ouvrez l'interface du joueur à l'aide de __CONTROL__open-character-gui__.",
+
+  "msg-recipes-info-1": "Sur la droite il y a vos plans. Un clic gauche sur un plan fabriquera l'objet indiqué.",
+  "msg-recipes-info-2": "Le nombre sur le plan indique le nombre de fois qu'il peut être utilisé avec vos ressources actuelles.",
+  "msg-recipes-info-3": "Quand vous survolez un plan vous pouvez voir les ingrédients qu'il requiert.",
+  "goal-craft-iron-axe": "Fabriquez une __ITEM__iron-axe__.",
+  "msg-crafting-queue-1": "Ceci est votre file d'assemblage. Les produits intermédiaires sont assemblés automatiquement.",
+  "goal-close-character-screen": "Fermer la fenêtre de personnage (press __CONTROL__close-gui__).",
+  "msg-iron-axe-equipped": "La __ITEM__iron-axe__ a été ajoutée automatiquement à votre emplacement d'outil.",
+
+  "goal-mine-iron-ore": "Rapprochez-vous du __ENTITY__iron-ore__, pointez votre curseur dessus et récolter le en maintenant __CONTROL__mine__. ",
+  "msg-entity-info": "Quand vous survolez une entité, des détails utiles apparaissent dans l'angle supérieur droit.",
+
+  "goal-mine-iron-ore-precise": "Récoltez du __ENTITY__iron-ore__: __1__/__2__",
+  
+  "goal-open-character-screen-2": "Ouvrez l'interface du joueur ( __CONTROL__open-character-gui__).",
+  "think-see-iron-ore": "Cela ressemble à du Minerai de fer là-bas.",
+  "think-smelt-iron": "Hmm si seulement je pouvais faire fondre ce fer quelque part ...",
+  "think-need-new-axe": "Cette __ITEM__stone-axe__ s'use rapidement. Il me faut quelque chose de plus résistant.",
+  
+  "goal-craft-furnace": "Fabriquez un __ENTITY__stone-furnace__ (__CONTROL__open-character-gui__ puis regardez vos plans).",
+  "msg-quickbar-introduction": "Les choses que vous pouvez construire vont dans votre barre d'action.",
+  "goal-build-furnace": "Prenez __ENTITY__stone-furnace__ avec votre curseur et placez le sur le sol à l'aide de __CONTROL__build__.",
+  "goal-open-furnace": "Ouvrez le four (__CONTROL__open-gui__).",
+  "goal-insert-fuel-into-furnace": "Mettez le carburant dans le __ENTITY__stone-furnace__.\n__ENTITY__coal__ ou __ITEM__wood__ fera l'affaire.",
+  "goal-insert-iron-into-furnace": "Mettez le fer dans le __ENTITY__stone-furnace__.",
+  "msg-furnace-working": "Le __ENTITY__stone-furnace__ fond désormais votre __ENTITY__iron-ore__ en __ITEM__iron-plate__.",
+  "think-furnace-useful": "Ce n'était pas bien difficile. Ce __ENTITY__stone-furnace__ va s'avérer très utile.",
+  "goal-get-iron-plates-from-furnace": "Récupérez les __ITEM__iron-plate__ dans le __ENTITY__stone-furnace__",
+  
+  "think-tired": "Je suis fatigué par tout ce minage. Pourrions-nous l'automatiser?",
+  "goal-craft-burner-miner": "Fabriquez une __ENTITY__burner-mining-drill__.",
+  "goal-place-burner-miner": "Placez la __ENTITY__burner-mining-drill__ sur le sol par-dessus des ressources.",
+  "goal-insert-fuel-into-burner-miner": "Insérez le carburant dans la __ENTITY__burner-mining-drill__.",
+  "think-burner-miner-working": "Cela fonctionne.",
+  "msg-burner-miner-resources-placement": "La __ENTITY__burner-mining-drill__ place les ressources minées devant elle.",
+  "goal-pick-mined-item": "Ramassez l'objet miné par la __ENTITY__burner-mining-drill__ (Pressez __CONTROL__pick-items__ à proximité).",
+  "think-storage-needed": "Je pourrais mettre quelque chose pour collecter les ressources minées par la __ENTITY__burner-mining-drill__.",
+  "goal-craft-chest": "Fabriquez un __ENTITY__wooden-chest__.",
+  "goal-put-chest-below-burner-miner": "Placez __ENTITY__wooden-chest__ sous la sortie de la __ENTITY__burner-mining-drill__. ",
+  "msg-resources-in-container": "Les ressources sont maintenant envoyées dans le __1__.",
+  "goal-collect-in-container": "Récoltez au moins __1__ dans le __ENTITY__wooden-chest__.",
+  "goal-empty-container": "Retirez les ressources du __1__.",
+  "think-learned-something": "Pas mal. J'ai appris quelque chose aujourd'hui.",
+  "think-go-around": "Je devrais me déplacer et aller inspecter un peu cet endroit.",
+  "msg-mined-furnace-instead-of-open": "Oups, vous avez démonté le __ENTITY__stone-furnace__ au lieu de l'ouvrir. Il s'ouvre à l'aide de __CONTROL__open-gui__.",
+  "msg-mined-burner-miner-instead-of-open": "Oups, vous avez démonté la __ENTITY__burner-mining-drill__ au lieu de l'ouvrir. Elle s'ouvre à l'aide de __CONTROL__open-gui__.",
+  "msg-placed-burner-miner-outside-resources": "Vous avez placé la __ENTITY__burner-mining-drill__ dans une zone sans ressources. Elle ne fonctionnera pas ici.",
+  "goal-mine-burner-miner": "Démontez la __ENTITY__burner-mining-drill__.",
+  "msg-miner-chest-instead-of-open": "Oups, vous avez démonté le __ENTITY__wooden-chest__ eu lieu de l'ouvrir. Il s'ouvre l'aide de __CONTROL__open-gui__."
+}

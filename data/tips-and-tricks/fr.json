@@ -1,0 +1,41 @@
+
+[
+  {
+    "title": "Transfert de pile",
+    "image": "stack-transfer.png",
+    "text": "\"__CONTROL__stack-transfer__\" permet de déplacer une pile entière. De plus cette commande est suffisamment intelligente pour savoir où déplacer la pile. Par exemple l'utiliser sur une  __ITEM__iron-axe__ dans l'inventaire la mettra dans l'emplacement des Outils." },
+  {
+    "title": "Transfert d'objets",
+    "image": "inventory-transfer.png",
+    "text": "\"__CONTROL__inventory-transfer__\" déplacera toutes les piles du type sélectionné entre les inventaires. Cela peut être utilisé par exemple pour transférer tous les tapis roulants d'un __ENTITY__wooden-chest__ vers l'inventaire du joueur."
+  },
+  {
+    "title": "Transfert rapide",
+    "image": "fast-entity-transfer.png",
+    "text": "\"__CONTROL__fast-entity-transfer__\" permet d'opérer un transfert avec l'entité sélectionnée sans ouvrir son interface. Si les mains du joueur son vide le transfert à lieu en direction de l'inventaire du joueur et l'inverse a lieu si le joueur tient un objet. Cela peut être pratique en début de partie pour gérer les __ENTITY__stone-furnace__s, __ENTITY__burner-mining-drill__s, etc."
+  },
+  {
+    "title": "Barre d'action",
+    "image": "quickbar.png",
+    "text": "Chaque emplacement de la barre d'action dispose d'un raccourci. Si vous aviez déjà sélectionné un objet, il est renvoyé dans l'emplacement où il a été pris."
+  },
+  {
+    "title": "Libérer le curseur",
+    "text": "\"__CONTROL__clean-cursor__\" déplacera la pile d'objet sur le curseur en direction de votre inventaire/barre d'action."
+  },
+  {
+    "title": "Afficher informations avancées",
+    "image": "show-info.png",
+    "text": "\"__CONTROL__show-info__\" permet d'afficher ou de cacher les informations avancées."
+  },
+  {
+    "title": "Construire en courant",
+    "image": "building-while-running.png",
+    "text": "La façon la plus rapide de construire des choses en ligne, comme les tapis roulants ou les tuyaux est de maintenir \"__CONTROL__build__\" à l'endroit où vous voulez construire et de courir dans la direction voulue."
+  },
+  {
+    "title": "Filtres",
+    "image": "filter.png",
+    "text": "Utiliser \"__CONTROL__set-filter__\" sur la barre d'action vous permet de réserver un emplacement à un objet particulier. Aucun autre objet ne pourra être placé dedans et l'objet du type voulu sera placé en priorité à cet endroit. Le filtre peut être retiré en appuyant sur \"__CONTROL__clear-filter__\"."
+  }
+]

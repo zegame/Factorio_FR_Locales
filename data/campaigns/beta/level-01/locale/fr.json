@@ -1,12 +1,12 @@
 {
-   "msg-wreck-location": "Les décombres du vaisseau se trouvent au sud est",
-   "msg-wreck-motivation": "Je vais sans doute devoir m'installer ici pour recouvrir les données nécessaires aux technologies avancées",
-   "msg-wreck-guarded": "Malheureusement, il semble qu'au sud se trouve une importante concentration de Xenos, il me faudra être préparé ...",
+   "msg-wreck-location": "Les restes du vaisseau se trouvent au sud est",
+   "msg-wreck-motivation": "Je dois me rendre lÃ -bas pour rÃ©cupÃ©rer les donnÃ©es qu'il me manque pour produire des technologies avancÃ©es",
+   "msg-wreck-guarded": "Malheureusement, il semble qu'au sud se trouve une importante concentration de Xenos, il me faudra Ãªtre prÃ©parÃ© ...",
    "msg-wreck-time-limit": "J'ai __1__ minutes pour les retrouver, ou ils s'en chargeront ...",
-   "msg-tip": "Il faudrait installer un réseau électrique et commencer par faire des recherches optiques afin de pouvoir m'éclairer une fois la nuit tombée.",
-   "msg-research": "Les recherches s'effectuent dans le __ENTITY__lab__. Vous pouvez à tout instant consulter l'arbre technologique en utilisant __CONTROL__open_technology_gui__.",
+   "msg-tip": "Il faudrait installer un rÃ©seau Ã©lectrique et commencer par faire les recherches optiques afin de pouvoir m'Ã©clairer pendant la nuit.",
+   "msg-research": "Les recherches s'effectuent dans le __ENTITY__lab__. Vous pouvez Ã  tout instant consulter l'arbre technologique en utilisant __CONTROL__open_technology_gui__.",
    "msg-rockets-needed": "Il va me falloir beaucoup de roquettes, et mes mains ne seront pas suffisantes pour cela ... je devrais fabriquer des machines d'assemblages.",
-   "msg-armor-needed": "I will need some protection, I should make and equip some armor.",
-   "goal-get-computer": "Récupérez l'ordinateur dans les temps.(Sud-Est)\nTemps restant: __1__",
-   "goal-get-computer-without-time": "Récupérez l'ordinateur dans les temps. (Sud Est)"
+   "msg-armor-needed": "I va me falloir une protection, je devrais me faire et Ã©quiper une armure.",
+   "goal-get-computer": "RÃ©cupÃ©rez l'ordinateur dans les temps.(Sud-Est)\nTemps restant: __1__",
+   "goal-get-computer-without-time": "RÃ©cupÃ©rez l'ordinateur dans les temps. (Sud Est)"
 }
