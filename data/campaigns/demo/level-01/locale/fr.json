@@ -1,5 +1,5 @@
 {
-  "msg-introduction": "La dernière chose dont vous vous souvenez est d'être rentré dans le module de sauvetage (press __CONTROL__confirm-message__ to continue).",
+  "msg-introduction": "La dernière chose dont vous vous souvenez est d'être entré dans le module de sauvetage (appuyez sur __CONTROL__confirm-message__ pour continuer).",
   "msg-introduction-2": "Vous ne voyez personne de votre vaisseau aux alentours, ni d'autre épave que la vôtre.",
 
   "goal-intro-msg": "Vous pouvez toujours voir l'objectif courant dans l'angle supérieur droit.",
@@ -53,10 +53,10 @@
   "goal-craft-chest": "Fabriquez un __ENTITY__wooden-chest__.",
   "goal-put-chest-below-burner-miner": "Placez __ENTITY__wooden-chest__ sous la sortie de la __ENTITY__burner-mining-drill__. ",
   "msg-resources-in-container": "Les ressources sont maintenant envoyées dans le __1__.",
-  "goal-collect-in-container": "Récoltez au moins __1__ dans le __ENTITY__wooden-chest__.",
+  "goal-collect-in-container": "Attendez qu'il y ait au moins __1__ __ENTITY__iron-ore__ dans le __ENTITY__wooden-chest__.",
   "goal-empty-container": "Retirez les ressources du __1__.",
   "think-learned-something": "Pas mal. J'ai appris quelque chose aujourd'hui.",
-  "think-go-around": "Je devrais me déplacer et aller inspecter un peu cet endroit.",
+  "think-go-around": "Je vais aller inspecter un peu les environs.",
   "msg-mined-furnace-instead-of-open": "Oups, vous avez démonté le __ENTITY__stone-furnace__ au lieu de l'ouvrir. Il s'ouvre à l'aide de __CONTROL__open-gui__.",
   "msg-mined-burner-miner-instead-of-open": "Oups, vous avez démonté la __ENTITY__burner-mining-drill__ au lieu de l'ouvrir. Elle s'ouvre à l'aide de __CONTROL__open-gui__.",
   "msg-placed-burner-miner-outside-resources": "Vous avez placé la __ENTITY__burner-mining-drill__ dans une zone sans ressources. Elle ne fonctionnera pas ici.",
