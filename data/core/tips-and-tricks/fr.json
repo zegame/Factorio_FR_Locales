@@ -1,6 +1,26 @@
 
 [
   {
+    "title": "D'autres produits fabriqués dans le four",
+    "image": "other-furnace-usage.png",
+    "text": "Le four peut fabriquer des briques de pierre a partir de pierre et  des plaque d'acier a partir de plaque de fer (l'acier doit être étudié)."
+  },
+  {
+    "title": "Deux côtés de la ceinture",
+    "image": "two-sides-of-belts.png",
+    "text": "La gauche et à droite de la ceinture peut être utilisé indépendamment pour différentes ressources d'insertion met les choses sur la partie éloignée de la ceinture."
+  },
+  {
+    "title": "Reconstruction",
+    "image": "rebuilding.png",
+    "text": "Lefour en pierre peut être reconstruit en four en acier sans la nécessité d'exploiter le premier abord.Les travaux similaires pour les machines d'assemblage, des bandes de transport, inséreuses coffres et similaire.Il peut être utilisé pour changer la direction de la bande de transport."
+  },
+  {
+    "title": "Info sur le réseau électrique",
+    "image": "electric-network-info.png",
+    "text": "IAppel  \"__CONTROL__open-gui__\" sur un poteau électrique ouvrira les statistiques du réseau électrique."
+  },
+  {
     "title": "Transfert de pile",
     "image": "stack-transfer.png",
     "text": "\"__CONTROL__stack-transfer__\" permet de déplacer une pile entière. De plus cette commande est suffisamment intelligente pour savoir où déplacer la pile. Par exemple l'utiliser sur une  __ITEM__iron-axe__ dans l'inventaire la mettra dans l'emplacement des Outils." },
@@ -21,6 +41,7 @@
   },
   {
     "title": "Libérer le curseur",
+	"image": "clean-cursor.png",
     "text": "\"__CONTROL__clean-cursor__\" déplacera la pile d'objet sur le curseur en direction de votre inventaire/barre d'action."
   },
   {
@@ -34,8 +55,23 @@
     "text": "La façon la plus rapide de construire des choses en ligne, comme les tapis roulants ou les tuyaux est de maintenir \"__CONTROL__build__\" à l'endroit où vous voulez construire et de courir dans la direction voulue."
   },
   {
+    "title": "La construction rapide des lignes électriques",
+    "image": "building-electric-lines.png",
+    "text": "Le moyen rapide pour construire la ligne électrique est de faire glisser la touche de la construction tout en se déplaçant, le pôle prochaine sera construit sur le lieu le plus éloigné possible automatiquement."
+  },
+  {
     "title": "Filtres",
     "image": "filter.png",
     "text": "Utiliser \"__CONTROL__set-filter__\" sur la barre d'action vous permet de réserver un emplacement à un objet particulier. Aucun autre objet ne pourra être placé dedans et l'objet du type voulu sera placé en priorité à cet endroit. Le filtre peut être retiré en appuyant sur \"__CONTROL__clear-filter__\"."
+  }
+  {
+    "title": "Les éléments utilisables",
+    "image": "usable-items.png",
+    "text": "Les éléments utilisables sont activées en appuyant sur la touche de la barre de raccourcis sur le slot correspondant. Le curseur de la souris indique le lieu pour les activer (pour capsules et des grenades)."
+  },
+  {
+    "title": ""Copier la  construction ",
+    "image": "copy-build.png",
+    "text": "Construire avec \"__CONTROL__alternative-build__\" va copier toute la configuration intérieur automatiquement de la machine de ce même type construit pour la dernière fois. Cela comprend la connexion au réseau de circuit."
   }
 ]
